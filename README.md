@@ -5,6 +5,7 @@
 
 EFB Avionics Suite is free to use.
 If you find it useful and would like to support future development, you can buy me a coffee:
+
 [☕ Buy Me a Coffee](https://buymeacoffee.com/danteocram)
 ____________________________________________________________________________________________________________________________________________
 

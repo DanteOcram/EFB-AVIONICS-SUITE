@@ -1,6 +1,13 @@
 <img width="400" height="500" alt="E74E2A2F-B35D-4873-8B98-B3E2D9698C02" src="https://github.com/user-attachments/assets/2d457e5d-7fe8-4bf8-ac73-25ecdc9ae60b" />
 <img width="400" height="500" alt="DBC6407D-EBD7-4A03-832B-FF3F5BF7DB4E" src="https://github.com/user-attachments/assets/da1cd85c-0882-42a0-b408-672d264a5e24" />
 
+## ☕ Support the project
+
+EFB Avionics Suite is free to use.
+If you find it useful and would like to support future development, you can buy me a coffee:
+[☕ Buy Me a Coffee](https://buymeacoffee.com/danteocram)
+____________________________________________________________________________________________________________________________________________
+
 
 I've been building my home cockpit around the A320 and, like many of you, I'm using tablets/screens for EFBs and other simulator interfaces.
 
@@ -99,18 +106,6 @@ And more importantly:
 **What web-based simulator software do you use that I should test it with?**
 
 If enough people find this useful, I'll keep developing it.
-
-### ☕ Want to support the project?
-
-## ☕ Support the project
-
-EFB Avionics Suite is free to use.
-
-If you find it useful and would like to support future development, you can buy me a coffee:
-
-[☕ Buy Me a Coffee](https://buymeacoffee.com/danteocram)
-
-Thank you for supporting the project! ✈️
 
 ✈️ **Build. Test. Break it. Tell me what I should improve.**
 

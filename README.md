@@ -8,6 +8,11 @@ If you find it useful and would like to support future development, you can buy 
 
 [☕ Buy Me a Coffee](https://buymeacoffee.com/danteocram)
 ____________________________________________________________________________________________________________________________________________
+V1.1 Added support for GSX Pro; you can now log in to both services and quickly switch between ground services and the EFB via a pop-out menu.
+
+
+
+
 
 
 I've been building my home cockpit around the A320 and, like many of you, I'm using tablets/screens for EFBs and other simulator interfaces.

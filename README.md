@@ -8,7 +8,16 @@ If you find it useful and would like to support future development, you can buy 
 
 [☕ Buy Me a Coffee](https://buymeacoffee.com/danteocram)
 ____________________________________________________________________________________________________________________________________________
+v1.2 Avionics Suite was created thanks to your support and feedback:
+
+- EFB management
+- GSX management
+- SimBrief flight plan management
+- Notepad using keyboard, finger, or stylus
+
+
 V1.1 Added support for GSX Pro; you can now log in to both services and quickly switch between ground services and the EFB via a pop-out menu.
+
 
 
 
